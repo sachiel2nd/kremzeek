@@ -23,3 +23,8 @@ The logic of the program once "start" is clicked is as follows:
 -Printer's status is not on the screen
 -Printer's queue has a single item on it
 -Printer's queue requires to scroll at the very start
+
+Library dependencies:
+pip install opencv-python
+pip install numpy
+pip install pyautogui
